@@ -59,12 +59,6 @@ public class MyServlet extends HttpServlet{
         out.println("Experience : " + experience  + "<br>");
         out.println("Profession : " + profession  + "<br>");
 
-
-//        req.setAttribute("userName", userName);
-//        req.setAttribute("fullName", fullName);
-//        req.setAttribute("experience", experience);
-//        req.setAttribute("profession", profession);
-
         req.setAttribute("listOfUsers", getListOfUsersFromDb());
         req.getRequestDispatcher("userInfo.jsp").forward(req, resp);
     }

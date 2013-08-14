@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="antlr-2.7.71">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/googlechrome/JavaBrains/Add/forHibernate/antlr-2.7.7.jar!/" />
+      <root url="jar://$USER_HOME$/googlechrome/JavaBrains/Add/forHibernate/dom4j-1.6.1.jar!/" />
+      <root url="jar://$USER_HOME$/googlechrome/JavaBrains/Add/forHibernate/hibernate-commons-annotations-4.0.2.Final.jar!/" />
+      <root url="jar://$USER_HOME$/googlechrome/JavaBrains/Add/forHibernate/hibernate-core-4.2.3.Final.jar!/" />
+      <root url="jar://$USER_HOME$/googlechrome/JavaBrains/Add/forHibernate/hibernate-jpa-2.0-api-1.0.1.Final.jar!/" />
+      <root url="jar://$USER_HOME$/googlechrome/JavaBrains/Add/forHibernate/javassist-3.15.0-GA.jar!/" />
+      <root url="jar://$USER_HOME$/googlechrome/JavaBrains/Add/forHibernate/jboss-logging-3.1.0.GA.jar!/" />
+      <root url="jar://$USER_HOME$/googlechrome/JavaBrains/Add/forHibernate/jboss-transaction-api_1.1_spec-1.0.1.Final.jar!/" />
+      <root url="jar://$USER_HOME$/googlechrome/JavaBrains/Add/forHibernate/postgresql-9.2-1003.jdbc4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

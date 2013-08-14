@@ -19,7 +19,7 @@
         List<Users> users = (List<Users>) request.getAttribute("listOfUsers");
         for(int i = 0; i < users.size(); i++){
     %>
-    User #<%=i%><br>
+    <h4>User #<%=i%></h4><br>
     User Name: <%=users.get(i).getUserName()%> <br>
     Foll Name: <%=users.get(i).getFullName()%> <br>
     Experience: <%=users.get(i).getExperience()%> <br>

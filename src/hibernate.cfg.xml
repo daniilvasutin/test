@@ -54,10 +54,6 @@
         <!-- Drop and re-create the database schema on startup -->
         <property name="hbm2ddl.auto">update</property>
 
-        <!--<mapping class="dto.UserDetails"/>-->
-        <!--<mapping class="dto.Vehicle"/>-->
-        <!--<mapping class="dto.TwoWheels"/>-->
-        <!--<mapping class="dto.FourWheels"/>-->
         <mapping class="dto.Users"/>
 
     </session-factory>
